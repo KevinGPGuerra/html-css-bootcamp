@@ -1,0 +1,39 @@
+* {
+    margin:0
+}
+
+body {
+    background-color: #00539f;
+}
+
+img {
+    border: 10px ridge goldenrod;
+    border-radius: 100%;
+    display: block;
+    margin: 40px auto;
+
+}
+
+div { 
+    background-color: #00c957;
+    border: 5px solid black;
+    margin: 0 360px;
+}
+
+h1 {
+    color: #0266c8;
+    margin: 10px 20px;
+    font-size: 35px;
+}
+
+h2 {
+    color: #f90101;
+    margin: 10px 20px;
+    font-size: 35px;
+}
+
+p {
+    margin: 10px 20px;
+    font-size: 20px;
+    font-weight: bold;
+}

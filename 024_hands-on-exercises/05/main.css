@@ -1,0 +1,36 @@
+body{ background-color: black;
+
+}
+
+div{
+    height: 400px;
+    width: 400px;
+    background-color: grey;
+}
+
+
+a{
+    margin: 5px 120px;
+    /* color:pink; */
+}
+
+#idorange{
+    color:orange;
+}
+
+p{
+    margin: 20px 100px;
+    color:rgb(14, 219, 14);
+}
+
+.classred{
+    color:red;
+}
+
+/* #idblue{
+    color:blue;
+} */
+
+[target]{
+    color: purple;
+}

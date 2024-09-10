@@ -1,0 +1,39 @@
+Hands-On Exercises
+(1) Create an html page with an ordered list of 20 list items. 
+Use an ID to select the third list item. Style the third list item red.
+
+(2) Create an html page with an ordered list of 20 list items. 
+Use a class to select the third, fourth, and fifth list item. 
+Style these items red. 
+
+(3) Create an html page with 2 anchor tags providing links to different websites. 
+Give one of the anchor tags the target attribute. Use an attribute selector to 
+select the anchor tag with the target attribute. Style this selected anchor tag 
+to have a border around it.
+
+(4) Create an html page with 1 anchor tag. Provide styling for this anchor tag 
+including different colors for these css pseudo-class properties: link, visited, 
+hover, active. 
+
+(5) Create a paragraph of text. Style the first letter of that paragraph and the 
+first line to be different from the rest of the paragraph.
+
+(6) Use this emmet to create this html within an html page’s body tag ...    
+p{$}+div>p{$$}*3+article>p>lorem^^^p{$$$}*3    … and then, once the html is 
+created, do the following: select all p tags that are children of a div and make 
+them red.
+
+(7) Use this emmet to create this html within an html page’s body tag ...    
+p{$}+div>p{$$}*3+article>p>lorem^^^p{$$$}*3    … and then, once the html is 
+created, do the following: select all p tags that are immediate children of a div 
+and make them red.
+
+(8) Use this emmet to create this html within an html page’s body tag ...    
+p{$}+div>p{$$}*3+article>p>lorem^^^p{$$$}*3    … and then, once the html is 
+created, do the following: select all p tags that are siblings following a div 
+and make them red.
+
+(9) Use this emmet to create this html within an html page’s body tag ...    
+p{$}+div>p{$$}*3+article>p>lorem^^^p{$$$}*3    … and then, once the html is 
+created, do the following: select all p tags that are an immediate sibling 
+following a div and make it red.

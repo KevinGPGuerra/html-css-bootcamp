@@ -1,0 +1,26 @@
+body{ background-color: black;
+
+}
+
+a{
+    margin: 5px 120px;
+}
+
+div{
+    height: 400px;
+    width: 400px;
+    background-color: grey;
+}
+
+p{
+    margin: 20px 100px;
+    color:rgb(14, 219, 14);
+}
+
+/* .classred{
+    color:red;
+} */
+
+#idblue{
+    color:blue;
+}

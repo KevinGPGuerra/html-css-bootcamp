@@ -1,0 +1,8 @@
+p::first-letter{
+    font-style: oblique bold; 
+    color: darkred;
+}
+
+p::first-line{
+    color: red;
+}
